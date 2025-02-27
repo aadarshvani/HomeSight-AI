@@ -1,0 +1,31 @@
+# Core Python version requirement
+python>=3.8
+
+# Data Processing
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+
+# Web Scraping
+selenium==4.8.2
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# Machine Learning & Deep Learning
+tensorflow==2.12.0
+xgboost==1.7.6
+lightgbm==3.3.5
+
+# Model Evaluation & Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.15.0
+
+# Web App Development
+streamlit==1.22.0
+fastapi==0.95.2
+uvicorn==0.22.0
+
+# Utility Libraries
+joblib==1.2.0
+tqdm==4.66.1
